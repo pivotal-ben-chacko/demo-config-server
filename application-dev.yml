@@ -1,0 +1,3 @@
+shared:
+  properties:
+    testData: "This is test data"
